@@ -2,6 +2,8 @@
 
 This project was built as part of *Task 3* for my web development internship. The goal was to design and develop a professional, mobile-responsive website for a real local business to help them improve their online presence and attract more customers.
 
+Live Deployment URL: [https://bucolic-seahorse-5775cd.netlify.app/]
+
 ## 🚀 The Business Problem Solved
 Many local family restaurants lose potential customers because their menus are only available as blurry photos on Google Maps or social media, which are frustrating to read on mobile phones. This website fixes that problem by providing a clean, fast-loading, dynamic homepage optimized specifically for smartphones and desktops.
 
